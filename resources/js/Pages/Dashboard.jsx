@@ -7,14 +7,14 @@ import {
     BreadcrumbList,
     BreadcrumbPage,
     BreadcrumbSeparator,
-} from "@/components/ui/breadcrumb";
+} from "@/Components/ui/breadcrumb";
 import {  } from "lucide-react";
-import { Separator } from "@/components/ui/separator";
+import { Separator } from "@/Components/ui/separator";
 import {
     SidebarInset,
     SidebarProvider,
     SidebarTrigger,
-} from "@/components/ui/sidebar";
+} from "@/Components/ui/sidebar";
 
 export default function AppLayout({ user, children }) {
     return (
