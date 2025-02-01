@@ -1,7 +1,5 @@
-import { GalleryVerticalEnd } from "lucide-react";
 import { LoginForm } from "@/Components/Auth/login-form";
-import { Head, useForm } from "@inertiajs/react";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Head } from "@inertiajs/react";
 
 export default function Login() {
     return (
