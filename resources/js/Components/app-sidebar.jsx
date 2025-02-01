@@ -28,7 +28,7 @@ const data = {
     navMain: [
         {
             title: "Dashboard",
-            url: "#",
+            url: route('profile.edit'),
             icon: SquareTerminal,
             isActive: true,
         },
