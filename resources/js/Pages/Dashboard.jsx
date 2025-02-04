@@ -20,7 +20,7 @@ import {
     ChartContainer,
     ChartTooltip,
     ChartTooltipContent,
-} from "@/components/ui/chart";
+} from "@/Components/ui/chart";
 
 const chartConfig = {
     pending: {
